@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/adamcg123/nosql/issues"
   },
-  "homepage": "https://github.com/adamcg123/nosql#readme"
+  "homepage": "https://github.com/adamcg123/nosql#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.6"
+  }
 }
